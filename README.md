@@ -12,7 +12,16 @@ For this project we utilized a dataset sourced from Kaggle that covered the caus
 
 For this project we made sure to prioritize various different principles while handling the data related to the mortality rates and causes of death.  We ensured that special attention was given to the privacy of the individuals represented in the database. Any information that could be used to personally identify individuals was removed from the dataset in order to keep them anonymous. In order to maintain copyright regulations we also chose to get our dataset from Kaggle which is a website which gives users access to free and open datasets. To minimize bias we took into consideration that the dataset covered a wide span of countries which are more likely to give a less skewed representation of mortality rates globally.
 
+#### Instructions:
+
+This project utilizes various different python libraries and tools in order to accomplish the data manipulation and interactive visualizations. For the project to run smoothly it is important to  implement the following dependencies to get the correct work flow.
+Matplotlib: This library is utilized for data visualization.
+SQLAlchemy and psycopg2: Ensure you have these libraries installed to establish a connection to a PostgreSQL database.
+Connect to Database: Use psycopg2 to establish a connection to the PostgreSQL database. Your  config file should contain  the necessary variables, such as password in order to run.
+ipywidgets: ipywidgets is a library for creating interactive widgets in Jupyter notebooks .You can use  to create interactive widgets to enhance the users experience.
+
 ##### Source of the data set: 
+
 https://www.kaggle.com/datasets/bilalwaseer/death-rate-of-countries-and-its-causes
 
 
