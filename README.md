@@ -69,14 +69,6 @@ https://www.kaggle.com/datasets/bilalwaseer/death-rate-of-countries-and-its-caus
 
 
 
- 
-
-
-![Alt text](https://raw.githubusercontent.com/KatharinaSojka/Project_3_Group_2/Larissa_data_analytics/death_rate/DatabaseSQL/Table%20Schema.png)
-
-
-
-
 
 
 
