@@ -18,6 +18,7 @@ This project utilizes various different python libraries and tools in order to a
 Matplotlib: This library is utilized for data visualization.
 SQLAlchemy and psycopg2: Ensure you have these libraries installed to establish a connection to a PostgreSQL database.
 Connect to Database: Use psycopg2 to establish a connection to the PostgreSQL database. Your  config file should contain  the necessary variables, such as password in order to run.
+Ensure that the PostgreSQL server is running and accessible on localhost and port. You can verify the connection by checking localhost in PgAdmin
 ipywidgets: ipywidgets is a library for creating interactive widgets in Jupyter notebooks .You can use  to create interactive widgets to enhance the users experience.
 
 ##### Source of the data set: 
