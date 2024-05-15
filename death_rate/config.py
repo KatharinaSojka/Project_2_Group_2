@@ -1,2 +1,2 @@
 # PostgreSQL password
-password = "princesa"
+export const password = "princesa"
